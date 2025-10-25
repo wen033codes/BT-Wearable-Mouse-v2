@@ -1,0 +1,29 @@
+{
+    "name": "穿戴式滑鼠移動游標v2_12麥克風P1v1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microbit-pxt-blehid": "github:bsiever/microbit-pxt-blehid#v0.0.22"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.6",
+        "tag": "v5.0.6",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/a7b22b445e8aebdca9d19b7fb2250d11b06e8009",
+        "target": "8.0.17",
+        "pxt": "8.0.3",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
